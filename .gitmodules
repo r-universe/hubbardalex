@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "autostsm"]
+	path = autostsm
+	url = https://github.com/cran/autostsm
+	shallow = true
+	registered = true
+[submodule "kalmanfilter"]
+	path = kalmanfilter
+	url = https://github.com/cran/kalmanfilter
+	shallow = true
+	registered = true
+[submodule "kimfilter"]
+	path = kimfilter
+	url = https://github.com/cran/kimfilter
+	shallow = true
+	registered = true
